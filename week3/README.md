@@ -1,45 +1,42 @@
 # 📅 Week 3 – Mini-Project: Yahoo Finance API
 
 ## 🎯 Goal
-Download stock market data using the Yahoo Finance API, analyze historical prices, and create simple visualizations to understand trends.
+Download stock market data with the Yahoo Finance API and create simple visualizations with Python.
 
 ---
 
 ## 🛠 Tools & Skills
 - Python (pandas, matplotlib)
-- Yahoo Finance API (`yfinance` library)
+- Yahoo Finance API (`yfinance`)
 - Data visualization
-- GitHub project documentation
 
 ---
 
 ## 📂 Steps
 1. Install dependencies (`pip install yfinance pandas matplotlib`)
-2. Fetch historical data for selected stocks (AAPL, MSFT, BNP.PA)
-3. Plot closing prices over time
-4. Export charts as images
+2. Fetch stock data (AAPL, MSFT, BNP.PA)
+3. Plot closing prices and trends
+4. Save and upload charts
 
 ---
 
 ## ✅ Outcome
-- Stock price data successfully retrieved via API
-- Line charts visualizing historical performance
-- First finance-focused Python mini-project on GitHub
+- Stock price data fetched via API
+- Line charts of stock performance
+- First finance-oriented Python project in repo
 
 ---
 
 ## 🚀 Next Steps
-- Compare multiple assets in one chart
-- Add technical indicators (moving averages, volatility)
-- Publish a LinkedIn post with screenshots of results
+- Add moving averages & volatility indicators
+- Compare multiple assets
+- Share results on LinkedIn
 
 ---
 
 ## 📊 Deliverables
-- 💻 Code: `week3/yahoo_finance_project.ipynb`
-- 🖼️ Charts: stored in `week3/images/`
-- 📄 README: this document
-
----
+- 💻 Notebook: `week3/yahoo_finance_project.ipynb`
+- 🖼️ Charts in `week3/images/`
 
 🗓 Deadline: September 7, 2025
+
